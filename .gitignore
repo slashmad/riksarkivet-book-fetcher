@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+# Local runtime/output data
+media/
+*.errors.log
+
+# Local batch working files (contain personal project data)
+batch-urls.txt
+batch-urls.from-gramps.txt
+
+# Secrets
+riksarkivet-auth.json

@@ -1,0 +1,9 @@
+# One URL per line
+https://sok.riksarkivet.se/bildvisning/C0021353_00001
+https://sok.riksarkivet.se/bildvisning/00054882_00069
+
+# URL with custom title override (separator: |)
+# https://sok.riksarkivet.se/bildvisning/C0037740_00168|My Custom Book Title
+
+# URL with custom title override (separator: TAB)
+# https://sok.riksarkivet.se/bildvisning/C0037740_00169<TAB>Another Title
